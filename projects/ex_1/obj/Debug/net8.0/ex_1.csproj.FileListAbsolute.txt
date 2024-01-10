@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Documentos\Cursos\C#\projects\ex_1\bin\Debug\net8.0\ex_1.exe
+C:\Users\vitor\OneDrive\Documentos\Cursos\C#\projects\ex_1\bin\Debug\net8.0\ex_1.dll
+C:\Users\vitor\OneDrive\Documentos\Cursos\C#\projects\ex_1\obj\Debug\net8.0\ex_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Documentos\Cursos\C#\projects\ex_1\obj\Debug\net8.0\ex_1.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Documentos\Cursos\C#\projects\ex_1\obj\Debug\net8.0\ex_1.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Documentos\Cursos\C#\projects\ex_1\obj\Debug\net8.0\ex_1.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\Cursos\C#\projects\ex_1\obj\Debug\net8.0\ex_1.dll
+C:\Users\vitor\OneDrive\Documentos\Cursos\C#\projects\ex_1\obj\Debug\net8.0\refint\ex_1.dll
+C:\Users\vitor\OneDrive\Documentos\Cursos\C#\projects\ex_1\obj\Debug\net8.0\ex_1.pdb
+C:\Users\vitor\OneDrive\Documentos\Cursos\C#\projects\ex_1\bin\Debug\net8.0\ex_1.deps.json
+C:\Users\vitor\OneDrive\Documentos\Cursos\C#\projects\ex_1\bin\Debug\net8.0\ex_1.runtimeconfig.json
+C:\Users\vitor\OneDrive\Documentos\Cursos\C#\projects\ex_1\bin\Debug\net8.0\ex_1.pdb
+C:\Users\vitor\OneDrive\Documentos\Cursos\C#\projects\ex_1\obj\Debug\net8.0\ex_1.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Documentos\Cursos\C#\projects\ex_1\obj\Debug\net8.0\ref\ex_1.dll
