@@ -51,6 +51,4 @@ Este é um repositório para acompanhar as atividades do meu curso de C#. Aqui, 
 
 
 
-#English Version
-#
 
