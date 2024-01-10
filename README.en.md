@@ -32,17 +32,17 @@ This is a repository to track the activities of my C# course. Here, you will fin
 ## Repository Structure
 | Project Challenge  | Link |
 |:-------------:|:------------:|
-| 1. Parking System | [Link](atividade_1/)   |
-| 2. Syntax and Data Types  | [Link](atividade_2/)   |
-|3. Operators | [Link](atividade_3/) |
-|4. Flow Control|[Link](atividade_4/)|
-|5. Arrays and Lists|[Link](atividade_5/)|
-|6. Handling Functions|[Link](atividade_6/)|
-|7. System and Abstracting a Cellphone with OOP|[Link](atividade_7/)|
-|8. User Test Validations|[Link](atividade_8/)|
-|9. OOP Challenge|[Link](atividade_9/)|
-|10. Properties and Methods|[Link](atividade_10/)|
-|11. Objects with Attributes|[Link](atividade_11/)|
-|12. Constructors|[Link](atividade_12/)|
-|13. Inheritance and Subclass|[Link](atividade_13/)|
+| 1. Parking System | [Link](projects/ex_1)   |
+| 2. Syntax and Data Types  |    |
+|3. Operators |  |
+|4. Flow Control||
+|5. Arrays and Lists||
+|6. Handling Functions||
+|7. System and Abstracting a Cellphone with OOP||
+|8. User Test Validations||
+|9. OOP Challenge||
+|10. Properties and Methods||
+|11. Objects with Attributes||
+|12. Constructors||
+|13. Inheritance and Subclass||
 
