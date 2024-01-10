@@ -35,7 +35,7 @@ Este é um repositório para acompanhar as atividades do meu curso de C#. Aqui, 
 | Desafio de Projetos  | Link |
 |:-------------:|:------------:|
 | 1. Sistema de Estacioamento | [Link](projects/ex_1)  |
-| 2. Sintaxe e tipos de dados  | link   |
+| 2. Sintaxe e tipos de dados  |   |
 |3. Operadores | |
 |4. Controle de Fluxo||
 |5. array e Listas||
