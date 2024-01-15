@@ -35,18 +35,8 @@ Este é um repositório para acompanhar as atividades do meu curso de C#. Aqui, 
 | Desafio de Projetos  | Link |
 |:-------------:|:------------:|
 | 1. Sistema de Estacioamento | [Link](projects/ex_1)  |
-| 2. Sintaxe e tipos de dados  |   |
-|3. Operadores | |
-|4. Controle de Fluxo||
-|5. array e Listas||
-|6. Manipulando Funções||
-|7.istema e Abstraindo um Celular com POO||
-|8. Validações de Teste de usuários||
-|9. Desafio com POO||
-|10. Propriedades e métodos||
-|11. Objetos com atributos||
-|12. Construtores||
-|13.Herança e subclasse||
+| 2.Criando um Sistema e Abstraindo um Celular com POO |[Link](projects/ex_2) |
+| 3. Desafio com POO | [Link] ()|
 
 
 
