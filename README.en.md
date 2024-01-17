@@ -34,5 +34,5 @@ This is a repository to track the activities of my C# course. Here, you will fin
 |:-----------------:|:----:|
 | 1. Parking System | [Link](projects/ex_1) |
 | 2. Creating a System and Abstracting a Cellphone with OOP | [Link](projects/ex_2) |
-| 3. OOP Challenge | [Link]() |
+| 3. OOP Challenge | [Link](projects/ex_3) |
 
