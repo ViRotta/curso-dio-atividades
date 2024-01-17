@@ -36,7 +36,7 @@ Este é um repositório para acompanhar as atividades do meu curso de C#. Aqui, 
 |:-------------:|:------------:|
 | 1. Sistema de Estacioamento | [Link](projects/ex_1)  |
 | 2.Criando um Sistema e Abstraindo um Celular com POO |[Link](projects/ex_2) |
-| 3. Desafio com POO | [Link] (projects/ex_3)|
+| 3. Desafio com POO | [Link](projects/ex_3)|
 
 
 
